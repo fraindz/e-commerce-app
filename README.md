@@ -6,6 +6,10 @@ Sample e-commerce application created using ReactJS, Redux, React router. Concep
 - Array map, filter, reduce
 - CSS flex box
 
+Learnt
+- redux-form
+- Some cool CSS
+
 ## Resource used
 https://www.youtube.com/watch?v=T_HtlP80UYc&list=PL7LIfgWox4loRljGGM4_ecoH4sXc-rxLp
 
